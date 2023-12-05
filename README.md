@@ -1,5 +1,4 @@
 # MRTAS_2
-潍坊某农场数据
 This is a set of fundamental data from a Farmland Management Center in Weifang City, 
 including the coordinates of the farmland locations, robot depot coordinates, farmland area/pesticide requirements, 
 and the existing types of robots in the depot along with their respective functional parameters.
